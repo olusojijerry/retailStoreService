@@ -1,0 +1,6 @@
+C:\Users\DIADEM\source\repos\testingProject\eCommerce.Models\bin\Debug\eCommerce.Models.dll
+C:\Users\DIADEM\source\repos\testingProject\eCommerce.Models\bin\Debug\eCommerce.Models.pdb
+C:\Users\DIADEM\source\repos\testingProject\eCommerce.Models\obj\Debug\eCommerce.Models.csprojAssemblyReference.cache
+C:\Users\DIADEM\source\repos\testingProject\eCommerce.Models\obj\Debug\eCommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\DIADEM\source\repos\testingProject\eCommerce.Models\obj\Debug\eCommerce.Models.dll
+C:\Users\DIADEM\source\repos\testingProject\eCommerce.Models\obj\Debug\eCommerce.Models.pdb
